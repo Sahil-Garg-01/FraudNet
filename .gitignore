@@ -14,6 +14,9 @@ xgboost_model.pkl
 catboost_tuned_model.pkl
 shap_force.png
 shap_summary.png
+ca.pem
+service.cert
+service.key
 catboost_info
 
 # Python cache and temp files
