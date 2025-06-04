@@ -1,0 +1,29 @@
+# Python virtual environment
+venv/
+
+# Sensitive data and large files
+creditcard.csv
+X_train_scaled.csv
+X_test_scaled.csv
+y_train.csv
+y_test.csv
+X_train_smote.csv
+y_train_smote.csv
+catboost_model.pkl
+xgboost_model.pkl
+catboost_tuned_model.pkl
+shap_force.png
+shap_summary.png
+catboost_info
+
+# Python cache and temp files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment variables
+.env
+
+# IDE-specific files
+.vscode/
